@@ -1,0 +1,18 @@
+# WhatsApp UI Clone with Tailwind CSS
+
+##Description
+
+    This project is a simple UI clone of WhatsApp, created using Tailwind CSS.
+    It aims to demonstrate the capabilities of Tailwind CSS for building responsive and visually appealing user interfaces.
+
+##Features
+
+    Responsive Design: The UI adapts to different screen sizes, providing a seamless experience on various devices.
+    Tailwind CSS: The project utilizes Tailwind CSS utility classes for styling, making it easy to customize and maintain.
+
+ ### LIVE LINK: https://rohith-vu.github.io/whatsAppUI/
+
+ ###### LICENCE: MIT
+
+ #### Author:
+Rohith V
